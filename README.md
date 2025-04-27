@@ -16,7 +16,7 @@
 Clonez ce dépôt :
 
 ```bash
-git clone https://github.com/ton-pseudo/medetest.git
+git clone https://github.com/MedessiC/medetest.git
 cd medetest
 ```
 
